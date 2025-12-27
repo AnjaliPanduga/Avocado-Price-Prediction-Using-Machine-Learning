@@ -35,7 +35,3 @@ This project is an end-to-end Machine Learning application that predicts avocado
 - Tree-based models handle non-linear patterns better
 - Random Forest achieved the best overall performance
 
-## ▶️ How to Run the Project
-```bash
-pip install -r requirements.txt
-streamlit run app.py
