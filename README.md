@@ -131,7 +131,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
+---
 # 📂 Project Structure
 
 ```
@@ -164,4 +164,4 @@ This project covers the complete machine learning lifecycle:
 - Deployment with Streamlit
 
 It demonstrates practical skills in EDA, regression, model evaluation, and building interactive ML applications suitable for real-world business scenarios.
----
+
