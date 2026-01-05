@@ -133,7 +133,7 @@ streamlit run app.py
 ```
 
 # 📂 Project Structure
----
+
 ```
 ├── EDA Of Avocado Dataset.ipynb
 ├── Price Regression.ipynb
@@ -145,7 +145,7 @@ streamlit run app.py
 ```
 ---
 # 📌 Business Value
----
+
 This project shows how data-driven approaches can help businesses:
 
 - Forecast avocado prices more accurately
@@ -154,7 +154,7 @@ This project shows how data-driven approaches can help businesses:
 ---
 
 # 🙌 Conclusion
----
+
 This project covers the complete machine learning lifecycle:
 
 - Data analysis
